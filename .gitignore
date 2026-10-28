@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Ignore large raw CSV files exceeding GitHub 100MB limit
+amazon_review_fine-grained_5_classes_csv/*.csv
+*.csv
+
+# Temporary / OS / Office lock files
+~$*.docx
+~$*.pptx
+Thumbs.db
+.DS_Store
