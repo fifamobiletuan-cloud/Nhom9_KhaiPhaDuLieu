@@ -15,7 +15,7 @@
 * **Học kỳ:** Học kỳ 1 — Năm học 2026 - 2027
 * **Giảng viên hướng dẫn:** ThS. Vũ Thị Hạnh
 * **Nhóm sinh viên thực hiện:** **Nhóm 9** (Lớp: S26-65CNTT)
-  1. **Nguyễn Huỳnh Anh Tuấn** — MSSV: `2351067119` *(Trưởng nhóm)*
+  1. **Nguyễn Huỳnh Anh Tuấn** — MSSV: `2351067119`
   2. **Lê Văn Tính** — MSSV: `2351067117`
   3. **Nguyễn Anh Vũ** — MSSV: `2351067121`
 
@@ -142,4 +142,4 @@ Chọn **Kernel -> Restart & Run All** để tái lập lại toàn bộ các k�
 ### LIÊN HỆ VÀ BẢN QUYỀN
 
 Đồ án được thực hiện phục vụ mục đích học tập và nghiên cứu khoa học thuộc khuôn khổ học phần **Khai phá Dữ liệu** tại **Trường Đại học Thủy Lợi**. Mọi ý kiến đóng góp hoặc thắc mắc vui lòng liên hệ nhóm sinh viên thực hiện qua email:
-* Trưởng nhóm: `fifamobiletuan@gmail.com`
+* Email liên hệ: `fifamobiletuan@gmail.com`
