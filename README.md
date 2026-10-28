@@ -21,6 +21,22 @@
 
 ---
 
+### TRUY CẬP VÀ XEM TRỰC TIẾP TÀI LIỆU (ONLINE VIEWER - KHÔNG CẦN TẢI VỀ)
+
+Quý Thầy/Cô và các bạn có thể bấm trực tiếp vào các liên kết dưới đây để **xem toàn bộ Báo cáo, Slide thuyết trình và Mã nguồn trực tiếp trên trình duyệt** mà không cần tải tệp về máy tính:
+
+| Tài liệu | Định dạng | Xem trực tiếp trên Trình duyệt (1 Click) | Ghi chú |
+| :--- | :---: | :--- | :--- |
+| **Báo cáo Đồ án chi tiết** | **PDF** | 📄 [**Xem Báo cáo PDF trực tiếp trên GitHub**](BaoCao_KhaiPhaDuLieuNhom9.pdf) | Đầy đủ 68 trang, mục lục, bảng biểu và đồ thị sắc nét |
+| **Báo cáo Đồ án gốc** | **DOCX** | 📘 [**Xem Báo cáo Word trên Microsoft Office Online**](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/fifamobiletuan-cloud/Nhom9_KhaiPhaDuLieu/main/BaoCao_KhaiPhaDuLieuNhom9.docx) | Xem qua trình duyệt Microsoft Word Online chính chủ |
+| **Slide Thuyết trình** | **PDF** | 📊 [**Xem Slide PDF trực tiếp trên GitHub**](Nhom9.pdf) | 29 slide thuyết trình đồ họa trực quan |
+| **Slide Thuyết trình gốc** | **PPTX** | 📽️ [**Xem Slide PowerPoint trên Microsoft Office Online**](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/fifamobiletuan-cloud/Nhom9_KhaiPhaDuLieu/main/Nhom9.pptx) | Trình chiếu slide trực tuyến qua Microsoft PowerPoint Online |
+| **Mã nguồn Thực nghiệm** | **IPYNB** | 🐍 [**Xem Notebook Code trực tiếp trên GitHub**](AmazonReviews_Nhom9.ipynb) | 63 cell thực thi đầy đủ kèm kết quả và đồ thị tương tác |
+
+---
+
+---
+
 ### TỔNG QUAN VÀ KẾT QUẢ ĐẠT ĐƯỢC
 
 Đồ án tập trung nghiên cứu, thiết kế và hiện thực hóa một hệ thống toàn diện theo chuẩn quy trình công nghiệp **CRISP-DM** nhằm giải quyết bài toán phân loại cảm xúc đa mức độ (5 mức sao) trên tập dữ liệu lớn **Amazon Reviews Full Score Dataset** (3.65 triệu bản ghi):
@@ -64,8 +80,10 @@
 
 ```text
 ├── AmazonReviews_Nhom9.ipynb        # Jupyter Notebook hoàn chỉnh (63 cell thực thi đầy đủ)
-├── BaoCao_KhaiPhaDuLieuNhom9.docx   # Báo cáo đồ án chi tiết chuẩn luận văn (~100 trang, 30,258 từ, 23 bảng)
-├── Nhom9.pptx                       # Slide trình chiếu bảo vệ đồ án trước Hội đồng chấm thi
+├── BaoCao_KhaiPhaDuLieuNhom9.docx   # Báo cáo đồ án chi tiết Word (~100 trang, 30,258 từ, 23 bảng)
+├── BaoCao_KhaiPhaDuLieuNhom9.pdf    # Báo cáo đồ án định dạng PDF (xem trực tiếp trên GitHub)
+├── Nhom9.pptx                       # Slide trình chiếu bảo vệ đồ án PowerPoint
+├── Nhom9.pdf                        # Slide trình chiếu định dạng PDF (xem trực tiếp trên GitHub)
 ├── figures/                         # Thư mục đồ thị tổng quan của đề tài
 │   ├── fig1_class_distribution.png
 │   ├── fig2_linguistic_features.png
